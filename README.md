@@ -2,7 +2,7 @@
 local aboutMe = {
 
     ["ThisCode"] = {"Lua"};
-    ["Studying"] = {"Python"};
+    ["Studying"] = {"Python, HTML, CSS"};
     ["Experience"] = {"Lua in MTA"}
     
 };
